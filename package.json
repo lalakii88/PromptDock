@@ -1,0 +1,11 @@
+{
+  "name": "promptdock",
+  "version": "1.4.1",
+  "private": true,
+  "description": "Local prompt library browser extension with reusable template variables",
+  "license": "MIT",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "test": "node --test tests/core.test.cjs tests/privacy.test.cjs tests/floating.test.cjs tests/windows.test.cjs tests/ui.test.cjs"
+  }
+}
