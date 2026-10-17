@@ -1,0 +1,6 @@
+{
+  "extensionName": {"message": "PromptDock · 提示词仓"},
+  "extensionDescription": {"message": "本地保存与复用提示词，管理分类、填写模板变量；支持侧边栏和独立小窗，无 AI 接口。"},
+  "actionTitle": {"message": "PromptDock · 打开独立小窗"},
+  "sidebarCommand": {"message": "打开提示词侧边栏"}
+}

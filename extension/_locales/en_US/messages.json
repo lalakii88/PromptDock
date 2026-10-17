@@ -1,0 +1,6 @@
+{
+  "extensionName": {"message": "PromptDock · Prompt Library"},
+  "extensionDescription": {"message": "Save and reuse prompts locally. Organize categories and fill template variables in a sidebar or window. No AI API required."},
+  "actionTitle": {"message": "PromptDock · Open independent window"},
+  "sidebarCommand": {"message": "Open the prompt sidebar"}
+}
